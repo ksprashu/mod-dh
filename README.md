@@ -1,3 +1,6 @@
+### Edit: 
+Updated this to be the mod-DHmz layout for staggered keyboards, where the z is moved to the position of qwerty-b and all the keys on the left hand bottom row are shifted left.
+
 Colemak Mod-DH Downloads
 ========================
 
