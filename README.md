@@ -1,5 +1,5 @@
 ### Edit: 
-Updated this to be the mod-DHmz layout for staggered keyboards, where the z is moved to the position of qwerty-b and all the keys on the left hand bottom row are shifted left.
+Updated this to add the mod-DHmz layout for staggered keyboards, where the z is moved to the position of qwerty-b and all the keys on the left hand bottom row are shifted left. The layout is only updated for OSX which I use - feel free to fork and add the rest of the layouts too, thanks.
 
 Colemak Mod-DH Downloads
 ========================
